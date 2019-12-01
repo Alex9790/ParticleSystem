@@ -24,4 +24,4 @@ i had some.... issues with depthtest, but oh well.
 <li>Roght Mouse Button -> Up</li>
 </ul>
 
-<p>It also counts with Anttweakbar to set parameters in the scene, just play around with it</p>
+<p>It also use Anttweakbar to set parameters in the scene, just play around with it</p>
